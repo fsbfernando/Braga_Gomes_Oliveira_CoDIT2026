@@ -10,3 +10,4 @@
 
 **jnt_configrad.mat:** Joint positions of ur16e in each saved point in the world.
 
+**Analise_Rep_Acc_MAD_Images.r:** R Algorithm used no analyze the experiment data (2 ANOVA's application with MAD to remove outliers)
